@@ -1,0 +1,14 @@
+/* Home page footer icon */
+.icon-3 img{
+    width: 30px;
+    height: 30px;
+}
+.icon-3 p{
+    font-size: 14px;
+}
+
+/* home page ar navber */
+.nav{
+    background-image: url(/images/nagad-2.jpg);
+    background-repeat: no-repeat;
+}
